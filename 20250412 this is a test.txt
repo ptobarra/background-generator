@@ -8,4 +8,4 @@ this is the background changed on little feature.
 
 background changed again in big feature
 
-2nd change mad in big feature to add it to the pull request in github.
+I am removing the 2nd change made in the bigfeature branch.
